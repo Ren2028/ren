@@ -1,0 +1,71 @@
+.food-munch-logo {
+    width: 80px;
+    height: 30px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/duue484fv/image/upload/v1625904189/smiles_and_determination_of_rural_indian_women_6-e1553507990690_mvn4is.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: #efe4f5;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.banner-caption {
+    color: #ebc9f5;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#c7a6de, #2e1623);
+    width: 150px;
+    height: 35px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
